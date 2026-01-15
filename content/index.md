@@ -1,0 +1,4 @@
+---
+title: Loadstone
+template: home
+---
